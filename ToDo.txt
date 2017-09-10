@@ -1,0 +1,32 @@
+education_lineal
+font-awesome
+
+
+basic-straight
+TODO
+
+
+basic-black
+https://www.flaticon.com/packs/essentials-3
+https://www.flaticon.com/packs/design-21
+https://www.flaticon.com/packs/development-6
+https://www.flaticon.com/packs/office-25
+https://www.flaticon.com/packs/education-22
+https://www.flaticon.com/packs/files-folders-2
+https://www.flaticon.com/packs/business-22
+https://www.flaticon.com/packs/technology-2
+https://www.flaticon.com/packs/user-interface-15
+
+
+black filled families
+https://www.flaticon.com/family/basic-straight/filled?license=selection&order_by=1
+https://www.flaticon.com/family/basic-black/solid?license=selection&order_by=1
+https://www.flaticon.com/family/basic-miscellany/fill?license=selection&order_by=1
+https://www.flaticon.com/family/curved/fill?license=selection&order_by=1
+https://www.flaticon.com/family/basic-rounded/filled?license=selection&order_by=1
+https://www.flaticon.com/family/pictograms/filled?license=selection&order_by=1
+
+
+
+all icon families
+https://www.flaticon.com/family
