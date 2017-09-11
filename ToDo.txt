@@ -1,10 +1,5 @@
-education_lineal
-font-awesome
-
-
 basic-straight
 TODO
-
 
 basic-black
 https://www.flaticon.com/packs/essentials-3
@@ -16,7 +11,6 @@ https://www.flaticon.com/packs/files-folders-2
 https://www.flaticon.com/packs/business-22
 https://www.flaticon.com/packs/technology-2
 https://www.flaticon.com/packs/user-interface-15
-
 
 black filled families
 https://www.flaticon.com/family/basic-straight/filled?license=selection&order_by=1
