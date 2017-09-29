@@ -1,5 +1,3 @@
-https://www.flaticon.com/packs/vaadin-icons/7
-
 basic-straight
 https://www.flaticon.com/packs/astronomy-2
 https://www.flaticon.com/packs/text-editor-7
