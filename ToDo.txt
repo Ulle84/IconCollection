@@ -1,6 +1,3 @@
-basic-straight
-https://www.flaticon.com/packs/stationery-and-office-2
-
 basic-black
 https://www.flaticon.com/packs/design-21
 https://www.flaticon.com/packs/development-6
