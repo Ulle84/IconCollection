@@ -1,5 +1,4 @@
 basic-black
-https://www.flaticon.com/packs/design-21
 https://www.flaticon.com/packs/development-6
 https://www.flaticon.com/packs/office-25
 https://www.flaticon.com/packs/education-22
