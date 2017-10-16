@@ -1,11 +1,4 @@
 basic miscellany
-https://www.flaticon.com/packs/office-10
-https://www.flaticon.com/packs/technology-set
-https://www.flaticon.com/packs/delivery-7
-https://www.flaticon.com/packs/game-collection
-https://www.flaticon.com/packs/arrows-16
-https://www.flaticon.com/packs/education-8
-https://www.flaticon.com/packs/pins-and-locations-4
 https://www.flaticon.com/packs/seo-analytics-solid
 https://www.flaticon.com/packs/user-interface-collection
 https://www.flaticon.com/packs/files-and-folders-4
