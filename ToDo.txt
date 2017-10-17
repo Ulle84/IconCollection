@@ -1,9 +1,4 @@
 basic miscellany
-https://www.flaticon.com/packs/seo-analytics-solid
-https://www.flaticon.com/packs/user-interface-collection
-https://www.flaticon.com/packs/files-and-folders-4
-https://www.flaticon.com/packs/science-11
-https://www.flaticon.com/packs/symbol-collection
 https://www.flaticon.com/packs/users-13
 https://www.flaticon.com/packs/tech-6
 https://www.flaticon.com/packs/delivery-3
