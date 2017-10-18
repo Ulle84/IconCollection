@@ -1,9 +1,4 @@
 basic miscellany
-https://www.flaticon.com/packs/users-13
-https://www.flaticon.com/packs/tech-6
-https://www.flaticon.com/packs/delivery-3
-https://www.flaticon.com/packs/hand-gestures-4
-https://www.flaticon.com/packs/industry-7
 https://www.flaticon.com/packs/security-9
 https://www.flaticon.com/packs/development-2
 https://www.flaticon.com/packs/startup-5
