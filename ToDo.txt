@@ -1,18 +1,15 @@
-basic miscellany
-https://www.flaticon.com/packs/connectors-cables-3
-https://www.flaticon.com/packs/photography-10
-https://www.flaticon.com/packs/dialogue-4
-https://www.flaticon.com/packs/mobile-functions-2
+curved fill
+https://www.flaticon.com/packs/police-fill
+https://www.flaticon.com/packs/poll-and-contest-fill
 
 black filled families
 https://www.flaticon.com/family/basic-straight/filled?license=selection&order_by=1
 https://www.flaticon.com/family/basic-black/solid?license=selection&order_by=1
 https://www.flaticon.com/family/basic-miscellany/fill?license=selection&order_by=1
 https://www.flaticon.com/family/curved/fill?license=selection&order_by=1
+
 https://www.flaticon.com/family/basic-rounded/filled?license=selection&order_by=1
 https://www.flaticon.com/family/pictograms/filled?license=selection&order_by=1
-
-
 
 all icon families
 https://www.flaticon.com/family
