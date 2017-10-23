@@ -1,6 +1,5 @@
-curved fill
-https://www.flaticon.com/packs/police-fill
-https://www.flaticon.com/packs/poll-and-contest-fill
+basic rounded
+TODO choose packages
 
 black filled families
 https://www.flaticon.com/family/basic-straight/filled?license=selection&order_by=1
