@@ -1,10 +1,4 @@
 basic rounded
-https://www.flaticon.com/packs/bitcoin-4
-https://www.flaticon.com/packs/news-3
-https://www.flaticon.com/packs/countricons
-https://www.flaticon.com/packs/academy-5
-https://www.flaticon.com/packs/business-17
-https://www.flaticon.com/packs/finance-40
 https://www.flaticon.com/packs/user-compilation
 https://www.flaticon.com/packs/infographic-elements-5
 https://www.flaticon.com/packs/car-engine-5
