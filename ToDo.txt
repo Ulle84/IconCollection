@@ -1,14 +1,4 @@
 basic rounded
-https://www.flaticon.com/packs/user-compilation
-https://www.flaticon.com/packs/infographic-elements-5
-https://www.flaticon.com/packs/car-engine-5
-https://www.flaticon.com/packs/shape-compilation
-https://www.flaticon.com/packs/crime-investigation-9
-https://www.flaticon.com/packs/math-symbols-5
-https://www.flaticon.com/packs/design-thinking-14
-https://www.flaticon.com/packs/responsive-design-13
-https://www.flaticon.com/packs/internet-security-14
-https://www.flaticon.com/packs/renewable-energy-5
 https://www.flaticon.com/packs/businees-and-office
 https://www.flaticon.com/packs/speech-bubbles
 https://www.flaticon.com/packs/mechanic-elements-7
