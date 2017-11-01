@@ -1,12 +1,4 @@
 basic rounded
-https://www.flaticon.com/packs/design-tools-7
-https://www.flaticon.com/packs/location-14
-https://www.flaticon.com/packs/ui-icons-4
-https://www.flaticon.com/packs/household-solid
-https://www.flaticon.com/packs/database-6
-https://www.flaticon.com/packs/post-office-10
-https://www.flaticon.com/packs/time-and-date
-https://www.flaticon.com/packs/keys-and-locks-4
 https://www.flaticon.com/packs/seo-37
 https://www.flaticon.com/packs/resting-elements-2
 https://www.flaticon.com/packs/environment-5
