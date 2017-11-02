@@ -1,10 +1,4 @@
 basic rounded
-https://www.flaticon.com/packs/seo-37
-https://www.flaticon.com/packs/resting-elements-2
-https://www.flaticon.com/packs/environment-5
-https://www.flaticon.com/packs/arrow-icon-set
-https://www.flaticon.com/packs/business-analytics-7
-https://www.flaticon.com/packs/management-5
 https://www.flaticon.com/packs/time-management-6
 https://www.flaticon.com/packs/learning-16
 https://www.flaticon.com/packs/productivy
