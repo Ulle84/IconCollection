@@ -1,14 +1,4 @@
 basic rounded
-https://www.flaticon.com/packs/media-8
-https://www.flaticon.com/packs/archeology-8
-https://www.flaticon.com/packs/multimedia-11
-https://www.flaticon.com/packs/settings-display
-https://www.flaticon.com/packs/architecture-construction-6
-https://www.flaticon.com/packs/cursor-compilation
-https://www.flaticon.com/packs/edit-tool-set
-https://www.flaticon.com/packs/files-folder-set
-https://www.flaticon.com/packs/media-compilation
-https://www.flaticon.com/packs/computer-security-6
 https://www.flaticon.com/packs/factory-machinery-3
 https://www.flaticon.com/packs/location-element-set
 https://www.flaticon.com/packs/rewards-19
