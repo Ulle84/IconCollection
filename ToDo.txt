@@ -1,13 +1,4 @@
 basic rounded
-https://www.flaticon.com/packs/factory-machinery-3
-https://www.flaticon.com/packs/location-element-set
-https://www.flaticon.com/packs/rewards-19
-https://www.flaticon.com/packs/development-16
-https://www.flaticon.com/packs/nautical-sailor-6
-https://www.flaticon.com/packs/adventure-sports-12
-https://www.flaticon.com/packs/breakfast-3
-https://www.flaticon.com/packs/adventure-trip-2
-https://www.flaticon.com/packs/summertime-6
 https://www.flaticon.com/packs/scientific
 https://www.flaticon.com/packs/smart-devices-5
 https://www.flaticon.com/packs/work-tools-10
