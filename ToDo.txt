@@ -1,12 +1,24 @@
-basic rounded
-https://www.flaticon.com/packs/scientific
-https://www.flaticon.com/packs/smart-devices-5
-https://www.flaticon.com/packs/work-tools-10
-https://www.flaticon.com/packs/music-icons-7
-https://www.flaticon.com/packs/hippies-5
-https://www.flaticon.com/packs/construction-33
-https://www.flaticon.com/packs/stationery-7
-https://www.flaticon.com/packs/nature-15
+Pictograms / Fill
+https://www.flaticon.com/packs/filled-management-elements
+https://www.flaticon.com/packs/team-organization-human-pictograms
+https://www.flaticon.com/packs/humans-3
+https://www.flaticon.com/packs/day-in-the-office-pictograms
+https://www.flaticon.com/packs/workers
+https://www.flaticon.com/packs/outdoor-activities
+https://www.flaticon.com/packs/professions-pictograms
+https://www.flaticon.com/packs/urban-city-pictograms
+https://www.flaticon.com/packs/work-productivity-human-pictograms
+https://www.flaticon.com/packs/cleaning-services
+https://www.flaticon.com/packs/back-to-school-19
+https://www.flaticon.com/packs/factory-pictograms
+https://www.flaticon.com/packs/online-shopping-4
+https://www.flaticon.com/packs/garage-pictograms
+https://www.flaticon.com/packs/business-pictograms
+https://www.flaticon.com/packs/justice-and-law
+https://www.flaticon.com/packs/communication-pictograms
+https://www.flaticon.com/packs/ancient-greece-2
+https://www.flaticon.com/packs/space-mission
+https://www.flaticon.com/packs/drones
 
 black filled families
 https://www.flaticon.com/family/basic-straight/filled?license=selection&order_by=1
@@ -14,7 +26,6 @@ https://www.flaticon.com/family/basic-black/solid?license=selection&order_by=1
 https://www.flaticon.com/family/basic-miscellany/fill?license=selection&order_by=1
 https://www.flaticon.com/family/curved/fill?license=selection&order_by=1
 https://www.flaticon.com/family/basic-rounded/filled?license=selection&order_by=1
-
 https://www.flaticon.com/family/pictograms/filled?license=selection&order_by=1
 
 all icon families
