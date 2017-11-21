@@ -1,6 +1,17 @@
-Pictograms / Fill
-https://www.flaticon.com/packs/space-mission
-https://www.flaticon.com/packs/drones
+Google Material Design / Monochrome
+https://www.flaticon.com/packs/navigation-5
+https://www.flaticon.com/packs/maps-and-transport
+https://www.flaticon.com/packs/places-16
+https://www.flaticon.com/packs/toggle
+https://www.flaticon.com/packs/content-3
+https://www.flaticon.com/packs/notification
+https://www.flaticon.com/packs/action
+https://www.flaticon.com/packs/image
+https://www.flaticon.com/packs/hardware-3
+https://www.flaticon.com/packs/editor
+https://www.flaticon.com/packs/communication-70
+https://www.flaticon.com/packs/file-2
+https://www.flaticon.com/packs/device-2
 
 black filled families
 https://www.flaticon.com/family/basic-straight/filled?license=selection&order_by=1
@@ -9,6 +20,7 @@ https://www.flaticon.com/family/basic-miscellany/fill?license=selection&order_by
 https://www.flaticon.com/family/curved/fill?license=selection&order_by=1
 https://www.flaticon.com/family/basic-rounded/filled?license=selection&order_by=1
 https://www.flaticon.com/family/pictograms/filled?license=selection&order_by=1
+https://www.flaticon.com/family/google-material-design/monochrome
 
 all icon families
 https://www.flaticon.com/family
