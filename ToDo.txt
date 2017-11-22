@@ -1,11 +1,4 @@
 Google Material Design / Monochrome
-https://www.flaticon.com/packs/navigation-5
-https://www.flaticon.com/packs/maps-and-transport
-https://www.flaticon.com/packs/places-16
-https://www.flaticon.com/packs/toggle
-https://www.flaticon.com/packs/content-3
-https://www.flaticon.com/packs/notification
-https://www.flaticon.com/packs/action
 https://www.flaticon.com/packs/image
 https://www.flaticon.com/packs/hardware-3
 https://www.flaticon.com/packs/editor
