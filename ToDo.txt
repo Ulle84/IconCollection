@@ -1,12 +1,6 @@
-Google Material Design / Monochrome
-https://www.flaticon.com/packs/image
-https://www.flaticon.com/packs/hardware-3
-https://www.flaticon.com/packs/editor
-https://www.flaticon.com/packs/communication-70
-https://www.flaticon.com/packs/file-2
-https://www.flaticon.com/packs/device-2
+- curently nothing to do -
 
-black filled families
+downloaded families
 https://www.flaticon.com/family/basic-straight/filled?license=selection&order_by=1
 https://www.flaticon.com/family/basic-black/solid?license=selection&order_by=1
 https://www.flaticon.com/family/basic-miscellany/fill?license=selection&order_by=1
